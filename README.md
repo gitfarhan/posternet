@@ -1,6 +1,6 @@
 # PosterNet
 
-A python CLI with trained CNN model to recognise horror movies by given poster.
+A python CLI with trained CNN model to recognise horror movies by given poster file.
 
 how to use:
 
